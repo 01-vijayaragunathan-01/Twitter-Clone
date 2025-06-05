@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.waterMark{
+    opacity: 30%;
+    font-size: 25px;
+    align-items: center;
+    display: flex;
+    top: 30%;
+    padding-right: 30%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 50%;
+    position: sticky;
+    
+}
+
+/* .waterMark h1{
+    position: sticky;
+} */
