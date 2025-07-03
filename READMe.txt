@@ -13,7 +13,7 @@ build process in package.json
     "client": "npm run dev --prefix frontend"
   }, 
 
-//we must change this in our root package.json because it is .jsx files in frontend
+//we must change this in our root package.json because it is react + vite in frontend
 
 PORT = 
 MONGO_URL = 
